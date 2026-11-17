@@ -5,10 +5,13 @@
 
 ## ダウンロード
 
-右の「Releases」の一番新しい版から：
+上の一覧のファイルを押し、右上の「ダウンロード」のボタン（↓）で取ります。
 
 - **kotosearch-manager.mcpb**：Claude（デスクトップアプリ）用。ダブルクリックで入ります
+  （直接のリンク：https://github.com/hazime717/kotosearch-local/raw/main/kotosearch-manager.mcpb ）
 - **kotosearch-manager.zip**：Codex・コマンドで使う人用
+  （直接のリンク：https://github.com/hazime717/kotosearch-local/raw/main/kotosearch-manager.zip ）
+- latest.txt：新しい版のお知らせ（コトサーチが自動で読みます。開く必要はありません）
 
 ## 始め方
 
